@@ -7,7 +7,6 @@ I have recently finished high school, and I am currently learning cybersecurity.
 As I learn more about cybersecurity, I realize the importance of gaining real-life experience in this field. Therefore, my goal is to acquire this experience through an internship.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
