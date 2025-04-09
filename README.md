@@ -11,10 +11,10 @@ As I learn more about cybersecurity, I realize the importance of gaining real-li
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Writing a Professional Statement          | <a href="https://github.com/JudBie/Professional-Statement">Professional Statement</a>|
-| Conducting an Internal Security Audit | <a href="https://github.com/JudBie/Internal-Security-Audit">Internal Security Audit</a>|
+| Writing a Professional Statement          | <a href="https://github.com/JudBie/Professional-Statement/tree/main">Professional Statement</a>|
+| Conducting an Internal Security Audit | <a href="https://github.com/JudBie/Internal-Security-Audit/tee/main">Internal Security Audit</a>|
 
 
 ## Projects
-- <a href="https://github.com/JudBie/Professional-Statement">Professional Statement</a>
-- <a href="https://github.com/JudBie/Internal-Security-Audit">Internal Security Audit</a>
+- <a href="https://github.com/JudBie/Professional-Statement/tee/main">Professional Statement</a>
+- <a href="https://github.com/JudBie/Internal-Security-Audit/tee/main">Internal Security Audit</a>
