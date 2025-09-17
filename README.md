@@ -14,6 +14,7 @@ As I learn more about cybersecurity, I realize the importance of gaining real-li
 | Conducting an Internal Security Audit | <a href="https://github.com/JudBie/Internal-Security-Audit">Internal Security Audit</a>|
 
 
+
 ## Projects
 - <a href="https://github.com/JudBie/Professional-Statement">Professional Statement</a>
 - <a href="https://github.com/JudBie/Internal-Security-Audit">Internal Security Audit</a>
