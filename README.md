@@ -16,6 +16,7 @@ As I learn more about cybersecurity, I realize the importance of gaining real-li
 | Managing file permissions in Linux | <a href="https://github.com/JudBie/File-Permissions-in-Linux.git">File Permissions in Linux </a>|
 | Taking note of incidents using the 5 W's Framework| <a href="https://github.com/JudBie/Incident-Handlers-Journal.git">Incident Handler's Journal </a>|
 |Filtering SQL Queries| <a href="https://github.com/JudBie/Apply-Filters-to-SQL-Queries-.git">Apply Filters to SQL Queries </a>|
+|Assessing vulnerability and what it could mean for business operations| <a href="https://github.com/JudBie/Vulnerability-Assessment-Report.git">Vulnerability Assessment Report </a>|
 
 
 
@@ -26,3 +27,4 @@ As I learn more about cybersecurity, I realize the importance of gaining real-li
 - <a href="https://github.com/JudBie/File-Permissions-in-Linux.git">File Permissions in Linux </a>
 - <a href="https://github.com/JudBie/Incident-Handlers-Journal.git">Incident Handler's Journal </a>
 - <a href="https://github.com/JudBie/Apply-Filters-to-SQL-Queries-.git">Apply Filters to SQL Queries </a>
+- <a href="https://github.com/JudBie/Vulnerability-Assessment-Report.git">Vulnerability Assessment Report </a>
