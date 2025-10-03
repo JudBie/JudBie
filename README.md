@@ -4,7 +4,7 @@ I have recently finished high school, and I am currently learning cybersecurity.
 
 ## Objective
 
-As I learn more about cybersecurity, I realize the importance of gaining real-life experience in this field. Therefore, my goal is to acquire this experience through an internship.
+As I learn more about cybersecurity, I realize the importance of gaining real-life experience in this field. My goal is to acquire this experience by working with those who are skilled in this field. 
 
 ## Skills
 
