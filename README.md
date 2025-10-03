@@ -14,6 +14,8 @@ As I learn more about cybersecurity, I realize the importance of gaining real-li
 | Conducting an Internal Security Audit | <a href="https://github.com/JudBie/Internal-Security-Audit">Internal Security Audit</a>|
 | Creating an Incident Report | <a href="https://github.com/JudBie/Incident-Report-Analysis.git">Incident Report Analysis</a>|
 | Managing file permissions in Linux | <a href="https://github.com/JudBie/File-Permissions-in-Linux.git">File Permissions in Linux </a>|
+| Taking note of incidents using the 5 W's Framework| <a href="https://github.com/JudBie/Incident-Handlers-Journal.git">Incident Handler's Journal </a>|
+
 
 
 ## Projects
@@ -21,3 +23,4 @@ As I learn more about cybersecurity, I realize the importance of gaining real-li
 - <a href="https://github.com/JudBie/Internal-Security-Audit">Internal Security Audit</a>
 - <a href="https://github.com/JudBie/Incident-Report-Analysis.git">Incident Report Analysis</a>
 - <a href="https://github.com/JudBie/File-Permissions-in-Linux.git">File Permissions in Linux </a>
+- <a href="https://github.com/JudBie/Incident-Handlers-Journal.git">Incident Handler's Journal </a>|
