@@ -1,10 +1,7 @@
 # Hello, I'm Juditha
 
-I have recently finished high school, and I am currently learning cybersecurity.
-
-## Objective
-
-As I learn more about cybersecurity, I realize the importance of gaining real-life experience in this field. My goal is to acquire this experience by working with those who are skilled in this field. 
+Actively building technical skills through hands-on learning and project-based experience. Seeking an internship opportunity in either the IT or cybersecurity field to apply my growing knowledge in a real-world professional environment.
+I am committed to continuous learning and eager to work alongside experienced professionals who can mentor me as I develop practical skills in areas such as system administration, network security, and threat detection. I bring enthusiasm, strong problem-solving abilities, and a genuine desire to contribute to a team while gaining the hands-on experience necessary to build a successful future in technology.
 
 ## Skills
 
